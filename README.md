@@ -20,7 +20,7 @@
   * といった要望に応えられるかと思います
 
 ### ダウンロード・インストール
-* [kiyo-eng_commentViewer.zip](https://github.com/kiyoril96/kiyo-eng_acApps/releases/download/commentViewer_1_0/kiyo-eng_commentViewer.zip) 下部Assetsのリンクに同じ 
+* Releaseより最新のリリースファイルを取得してください。 
 * CMにD＆Dでインストールか ~/AssettoCorsa/ に展開してご利用ください。
 
 ### 使い方
